@@ -4,8 +4,11 @@ Este repositório contém todas as atividades, anotações e projetos desenvolvi
 
 📌 Conteúdo
 1️⃣ Pré-processamento e bases de dados – Manipulação e preparação de dados para modelos de ML.
+
 2️⃣ Pré-processamento de imagens – Técnicas para tratar e transformar imagens.
+
 3️⃣ Introdução a Redes Neurais Convencionais (CNNs) – Aplicação de CNNs para classificação e segmentação de imagens.
+
 4️⃣ Métricas para avaliação de modelos preditivos – Como medir a performance e ajustar modelos de Machine Learning.
 
 🚀 Objetivo
