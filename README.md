@@ -3,6 +3,7 @@
 Este repositório contém todas as atividades, anotações e projetos desenvolvidos durante o bootcamp de Machine Learning da Atlântico. Aqui, registro minha evolução desde o pré-processamento de dados até a construção e avaliação de modelos preditivos.
 
 📌 Conteúdo
+
 1️⃣ Pré-processamento e bases de dados – Manipulação e preparação de dados para modelos de ML.
 
 2️⃣ Pré-processamento de imagens – Técnicas para tratar e transformar imagens.
