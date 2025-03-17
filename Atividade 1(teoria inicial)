@@ -1,0 +1,7 @@
+1.Machine Learning é a capacidade de ensinar a máquina a aprender e tomar decisões com base em dados, utilizando diversas estratégias.
+2.Conjunto de treinamento: Quando você fornece à máquina exemplos de algo que ela deve identificar.
+Conjunto de validação: Mede a capacidade de generalização do modelo com um novo conjunto de informações.
+Conjunto de teste: Usado para avaliar o desempenho da IA após o treinamento.
+3.Eu pensaria no contexto em que falta dados, aplicando a solução mais adequada ao caso. Por exemplo, se a falta de dados ocorrer em uma coluna numérica, talvez seja válido substituir os valores ausentes pela média, pois isso não afetaria tanto as análises baseadas na média da coluna. Caso substituísse por zero, afetaria mais.
+4.A matriz de confusão mostra a comparação entre os valores previstos e reais do modelo.
+5.Algoritmos de Machine Learning são eficazes em diversas áreas, mas acredito que na área de finanças eles se tornam especialmente poderosos.
